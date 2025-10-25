@@ -9,9 +9,8 @@ I’m **Ali Varasteh Ranjbar** — a passionate **Software Engineer** and **AI R
 
 ---
 
-![Contributions](https://github.pumbas.net/api/contributions/alivara?colour=DF9149&bgColour=161B22&dotColour=D04E4E)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=alivara&theme=tokyonight)
 
 ---
 
@@ -52,6 +51,5 @@ I’m **Ali Varasteh Ranjbar** — a passionate **Software Engineer** and **AI R
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 ---
