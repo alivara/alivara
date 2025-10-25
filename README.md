@@ -15,23 +15,16 @@ I’m **Ali Varasteh Ranjbar** — a passionate **Software Engineer** and **AI R
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-0078D4?style=for-the-badge&logo=intel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alivara&show_icons=true&theme=tokyonight)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alivara&theme=tokyonight)
 
-### 🧩 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alivara&layout=compact&theme=tokyonight)
-
 ---
 
 ### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Varasteh%20Ranjbar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alivarasteh)
-[![Gmail](https://img.shields.io/badge/Gmail-alivarasteh100%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alivarasteh100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Varasteh%20Ranjbar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alivara)
+
 
 
