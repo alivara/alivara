@@ -5,8 +5,7 @@ I’m **Ali Varasteh Ranjbar** — a passionate **Software Engineer** and **AI R
 - 🎓 Graduated with honors (110 ELODE) from the **University of Genoa**.  
 - 🧠 Skilled in **Python**, **Golang**, **C/C++**, **IoT frameworks**, and **cloud-based systems**.  
 - 🤖 Experienced in **computer vision on edge devices**, **AI in manufacturing**, and **gesture recognition**.  
-- 🔍 Admitted to a **PhD program in Human–Computer Interaction (HCI)**.  
-- 📫 **[alivarasteh100@gmail.com](mailto:alivarasteh100@gmail.com)**  
+- 🔍 Admitted to a **PhD program in Human–Computer Interaction (HCI)**.   
 
 ---
 
